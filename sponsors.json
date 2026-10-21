@@ -36,6 +36,8 @@
   },
   {
     "name": "대복삼겹 황두현",
+    "title": "대복삼겹",
+    "person": "황두현",
     "logo": "sponsor-06.png?v=20261021-2",
     "description": "대복삼겹",
     "url": "",
@@ -43,6 +45,8 @@
   },
   {
     "name": "고구려명장 김임순",
+    "title": "고구려명장",
+    "person": "김임순",
     "logo": "sponsor-07.png?v=20261021-2",
     "description": "고구려명장 김임순",
     "url": "",
@@ -64,6 +68,8 @@
   },
   {
     "name": "제이마트 정옥진",
+    "title": "제이마트",
+    "person": "정옥진",
     "logo": "sponsor-10.png?v=20261021-2",
     "description": "제이마트 정옥진\n",
     "url": "",
@@ -71,6 +77,8 @@
   },
   {
     "name": "백합정육점 김종준",
+    "title": "백합정육점",
+    "person": "김종준",
     "logo": "sponsor-11.png?v=20261021-2",
     "description": "백합정육점 김종준",
     "url": "",
@@ -78,6 +86,8 @@
   },
   {
     "name": "고박사막창 고향자",
+    "title": "고박사막창",
+    "person": "고향자",
     "logo": "sponsor-12.png?v=20261021-2",
     "description": "고박사막창",
     "url": "",
@@ -85,6 +95,8 @@
   },
   {
     "name": "자양동 2구역 재개발조합 송주현",
+    "title": "자양동 2구역 재개발조합",
+    "person": "송주현",
     "logo": "sponsor-13.png?v=20261021-2",
     "description": "자양동 2구역 재개발조합 송주현",
     "url": "",
@@ -92,6 +104,8 @@
   },
   {
     "name": "오렌즈안경나라 이성신",
+    "title": "오렌즈안경나라",
+    "person": "이성신",
     "logo": "sponsor-14.png?v=20261021-2",
     "description": "오렌즈안경나라 이성신",
     "url": "",
@@ -99,6 +113,8 @@
   },
   {
     "name": "더블에이카피센터 최진모",
+    "title": "더블에이카피센터",
+    "person": "최진모",
     "logo": "sponsor-15.png?v=20261021-2",
     "description": "더블에이카피센터 최진모",
     "url": "",
@@ -140,6 +156,8 @@
   },
   {
     "name": "나무곰디자인 안좌진",
+    "title": "나무곰디자인",
+    "person": "안좌진",
     "logo": "sponsor-20.png?v=20261021-2",
     "description": "나무곰디자인 안좌진",
     "url": "",
@@ -147,6 +165,8 @@
   },
   {
     "name": "새봄안과 오정민",
+    "title": "새봄안과",
+    "person": "오정민",
     "logo": "sponsor-21.png?v=20261021-2",
     "description": "새봄안과 오정민\n",
     "url": "",
@@ -161,6 +181,8 @@
   },
   {
     "name": "장호덕손만두 김주석",
+    "title": "장호덕손만두",
+    "person": "김주석",
     "logo": "sponsor-23.png?v=20261021-2",
     "description": "장호덕손만두 김주석",
     "url": "",
@@ -168,6 +190,8 @@
   },
   {
     "name": "청풍맛집 윤문영",
+    "title": "청풍맛집",
+    "person": "윤문영",
     "logo": "sponsor-24.png?v=20261021-2",
     "description": "청풍맛집 윤문영",
     "url": "",
@@ -175,6 +199,8 @@
   },
   {
     "name": "대복감자탕 신정수",
+    "title": "대복감자탕",
+    "person": "신정수",
     "logo": "sponsor-25.png?v=20261021-2",
     "description": "대복감자탕 신정수",
     "url": "",
@@ -182,6 +208,8 @@
   },
   {
     "name": "자양동1통장",
+    "title": "자양동1통장",
+    "person": "김선열",
     "logo": "sponsor-26.png?v=20261021-2",
     "description": "자양동1통장(김선열)",
     "url": "",
@@ -189,6 +217,8 @@
   },
   {
     "name": "강릉칼국수 김홍연",
+    "title": "강릉칼국수",
+    "person": "김홍연",
     "logo": "sponsor-27.png?v=20261021-2",
     "description": "강릉칼국수 김홍연",
     "url": "",
@@ -196,6 +226,8 @@
   },
   {
     "name": "돈돌이생막창 주영선",
+    "title": "돈돌이생막창",
+    "person": "주영선",
     "logo": "sponsor-28.png?v=20261021-2",
     "description": "돈돌이생막창 주영선",
     "url": "",
@@ -203,6 +235,8 @@
   },
   {
     "name": "후루루손칼국수 박기수",
+    "title": "후루루손칼국수",
+    "person": "박기수",
     "logo": "sponsor-29.png?v=20261021-2",
     "description": "후루루손칼국수 박기수",
     "url": "",
@@ -210,6 +244,8 @@
   },
   {
     "name": "남일유통 남승도",
+    "title": "남일유통",
+    "person": "남승도",
     "logo": "sponsor-30.png?v=20261021-2",
     "description": "남일유통 남승도",
     "url": "",
@@ -217,6 +253,8 @@
   },
   {
     "name": "유종상사 유기만,유동구",
+    "title": "유종상사",
+    "person": "유기만 · 유동구",
     "logo": "sponsor-31.png?v=20261021-2",
     "description": "유종상사 유기만,유동구",
     "url": "",
@@ -224,6 +262,8 @@
   },
   {
     "name": "동아아파트관리사무소장 강금성",
+    "title": "동아아파트관리사무소장",
+    "person": "강금성",
     "logo": "sponsor-32.png?v=20261021-2",
     "description": "동아아파트관리사무소장 강금성",
     "url": "",
@@ -231,6 +271,8 @@
   },
   {
     "name": "돈돈이촌 박점순",
+    "title": "돈돈이촌",
+    "person": "박점순",
     "logo": "sponsor-33.png?v=20261021-2",
     "description": "돈돈이촌 박점순",
     "url": "",
@@ -238,6 +280,8 @@
   },
   {
     "name": "카포스자양카센터 박성국",
+    "title": "카포스자양카센터",
+    "person": "박성국",
     "logo": "sponsor-34.png?v=20261021-2",
     "description": "카포스자양카센터 박성국",
     "url": "",
@@ -245,6 +289,8 @@
   },
   {
     "name": "성전기획 이재창",
+    "title": "성전기획",
+    "person": "이재창",
     "logo": "sponsor-35.png?v=20261021-2",
     "description": "성전기획 이재창",
     "url": "",
@@ -252,6 +298,8 @@
   },
   {
     "name": "푸른태평양약구 안병모",
+    "title": "푸른태평양약구",
+    "person": "안병모",
     "logo": "sponsor-36.png?v=20261021-2",
     "description": "푸른태평양약구 안병모",
     "url": "",
@@ -259,6 +307,8 @@
   },
   {
     "name": "원화루 장정란",
+    "title": "원화루",
+    "person": "장정란",
     "logo": "sponsor-37.png?v=20261021-2",
     "description": "원화루 장정란",
     "url": "",
@@ -266,6 +316,8 @@
   },
   {
     "name": "상상낙지 이태겸",
+    "title": "상상낙지",
+    "person": "이태겸",
     "logo": "sponsor-38.png?v=20261021-2",
     "description": "상상낙지 이태겸",
     "url": "",
@@ -273,6 +325,8 @@
   },
   {
     "name": "자양싱싱활어회 임한권",
+    "title": "자양싱싱활어회",
+    "person": "임한권",
     "logo": "sponsor-39.png?v=20261021-2",
     "description": "자양싱싱활어회 임한권",
     "url": "",
